@@ -1,0 +1,14 @@
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\bin\Debug\net8.0\TestesUnitarios.Desafio.App.exe
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\bin\Debug\net8.0\TestesUnitarios.Desafio.App.deps.json
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\bin\Debug\net8.0\TestesUnitarios.Desafio.App.runtimeconfig.json
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\bin\Debug\net8.0\TestesUnitarios.Desafio.App.dll
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\bin\Debug\net8.0\TestesUnitarios.Desafio.App.pdb
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.AssemblyInfoInputs.cache
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.AssemblyInfo.cs
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.csproj.CoreCompileInputs.cache
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.dll
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\refint\TestesUnitarios.Desafio.App.dll
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.pdb
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\TestesUnitarios.Desafio.App.genruntimeconfig.cache
+C:\Users\edivini\Downloads\desafio-dio-c#-testes\TestesUnitarios.Desafio.App\obj\Debug\net8.0\ref\TestesUnitarios.Desafio.App.dll
